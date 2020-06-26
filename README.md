@@ -10,7 +10,7 @@ Configure IntelliJ with a Run/Debug config for this project.  Note the use of `i
 
 Start that task in IntelliJ.  
 
-In another terminal, run
+You can now launch the app in a terminal session and it will auto-reload as sources are edited:
 
 ```sh
 gradle run
