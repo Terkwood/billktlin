@@ -2,9 +2,7 @@
 
 Experimenting with LinkedIn API and ktor OAuth
 
-## development
-
-In order to provide auto-reload capability while developing, do the following:
+## set up auto-reload for local development
 
 Configure IntelliJ with a Run/Debug config for this project.  Note the use of `installDist` task and `-t` argument:
 
