@@ -8,7 +8,9 @@ Configure IntelliJ with a Run/Debug config for this project.  Note the use of `i
 
 ![intellij_run_debug_config](https://user-images.githubusercontent.com/38859656/85881513-bad47d80-b7ab-11ea-8c3f-7a47a7348675.png)
 
-Start that task in IntelliJ.  _In intelliJ, run_
+Start that task in IntelliJ.  
+
+In another terminal, run
 
 ```sh
 gradle run
